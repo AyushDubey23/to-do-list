@@ -15,7 +15,7 @@ aboutProject.onclick = () => {
     <svg width="213" height="37" id="logo" viewBox="0 0 213 37" fill="none" xmlns="http://www.w3.org/2000/svg"></svg>
     <p>
         <strong>Project by Ayush Dubey</strong><br>
-        <em>B.Tech CSE, MMMUT Gorakhpur</em>
+        <em>MMMUT Gorakhpur</em>
         <br><br>
         <span style="font-weight: bold; background-color: yellow; color: black; padding: 5px 10px; border-radius: 5px;">Fill this form to showcase my userbase:</span> 
         <a href="https://forms.gle/xTgR9x5cXK1qjdGp8" target="_blank" style="font-weight: bold; color: red; text-decoration: none; background-color: yellow; padding: 5px 10px; border-radius: 5px;">form</a>
